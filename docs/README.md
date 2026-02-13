@@ -3,9 +3,6 @@
 # Overview
 GameNotes is a web based note taking app for gamers. The application allows users to create, edit, organize and manage notes related to different games, genres and platforms. This repository contains the initial planning and documetation of Assignment 1.1. This phase is focused on design and planning.
 
-Link to full documentatin
-[Assignment 1.1 Documentation (PDF)](docs/Assignment 1 Note Taking App.pdf)
-
 #Tech Stack
 - Frontend: Angular
 - Backen: Node.js
@@ -44,9 +41,6 @@ Relationshipps
 - One User --> many notes
 - One Note --> many attachments
 - One Note --> many tags
-
-Link to Schema file
-[GameNotes Database Schema](docs/database-schema.md)
 
 #UI Prototypes
 - login page
